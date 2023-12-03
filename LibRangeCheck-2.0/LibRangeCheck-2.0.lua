@@ -112,6 +112,8 @@ HarmSpells["DRUID"] = {
 FriendSpells["HUNTER"] = {}
 HarmSpells["HUNTER"] = {
   75, -- ["Auto Shot"], -- 40
+  213691, -- ["Scatter Shot"], -- 20
+  257284, -- ["Hunter's Mark"] -- 60
 }
 
 FriendSpells["MAGE"] = {
@@ -214,6 +216,8 @@ local FriendItems  = {
   },
   [10] = {
     32321, -- Sparrowhawk Net
+    166785, -- Detoxified Blight Grenade
+    175063, -- Aqir Eqq Cluster
   },
   [15] = {
     1251, -- Linen Bandage
@@ -319,6 +323,8 @@ local HarmItems = {
   },
   [10] = {
     32321, -- Sparrowhawk Net
+    166785, -- Detoxified Blight Grenade
+    175063, -- Aqir Eqq Cluster
   },
   [15] = {
     33069, -- Sturdy Rope
